@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssmScaffolding:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ssmScaffolding-1.0.0.war">
+      <element id="artifact" artifact-name="ssmScaffolding:war exploded" />
+    </root>
+  </artifact>
+</component>
